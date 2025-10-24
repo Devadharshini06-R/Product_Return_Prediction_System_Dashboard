@@ -3,17 +3,19 @@ The dashboard provides a comprehensive view of product return data, key performa
 
 This interactive dashboard serves as the final deliverable for the Product Return Prediction System for E-commerce project, visualizing both historical data and the results of the machine learning prediction model. The data is sourced from the final prediction output of the ML model.
 
-StreamLit Web : [click Here](https://live-prediction-dashboard.streamlit.app/)
-
 ---
 
 ## **Power Bi DashBoard**
 
 <img width="1541" height="864" alt="image" src="https://github.com/user-attachments/assets/5b7fa807-fe43-43e5-a8be-d6ea41c69170" />
 
+---
+
 ### 💡 Overview
 
 This project delivers an end-to-end Machine Learning solution designed to predict the likelihood of product returns for an e-commerce platform. By analyzing historical sales, customer, and logistics data, the system provides proactive insights to reduce return costs, optimize inventory, and enhance customer satisfaction. The final output is an interactive dashboard built on the model's predictions.
+
+---
 
 
 | **Metric / Visualization**                             | **Insight Provided**                                                                 | **Actionable Takeaway**                                                                 |
